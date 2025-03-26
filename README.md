@@ -51,8 +51,8 @@ The dashboard provides:
 - **Customer Profiling for Fraud Detection**
 
 ## 🤝 Contributors
-- **Bhawani Rathod**
-- **Ajmeena7861**
+- **Shudhanshu Singh**
+- **Ajmeena Sheikh**
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
