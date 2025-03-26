@@ -14,15 +14,15 @@ This project focuses on developing a **Fraud Detection Dashboard** using **Power
 📂 Fraud_Detection_
 │-- 📂 Data                  # Contains raw and processed datasets
 │-- 📂 Reports               # Power BI reports and visualizations
-│-- 📂 Scripts               # Data preprocessing scripts (if applicable)
-│-- 📄 README.md             # Project documentation (this file)
+│-- 📂 Scripts               # Data preprocessing scripts
+│-- 📄 README.md             # Project documentation 
 ```
 
 ## 🛠️ Tech Stack
 - **Power BI**: Data visualization and dashboard creation
-- **SQL**: Data extraction and manipulation (if applicable)
-- **Python**: Data cleaning and preprocessing (optional)
-- **Excel**: Data storage and preprocessing (optional)
+- **SQL**: Data extraction and manipulation 
+- **Python**: Data cleaning and preprocessing 
+- **Excel**: Data storage and preprocessing 
 
 ## 🚀 Getting Started
 ### 1️⃣ Prerequisites
@@ -57,5 +57,4 @@ The dashboard provides:
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 📬 Contact
-For any queries, reach out via GitHub Issues or email: `your_email@example.com`
+
